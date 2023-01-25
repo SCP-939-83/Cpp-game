@@ -1,0 +1,11 @@
+C:\Users\thijs\OneDrive\Documenten\GitHub\Csharp-game\Gemwave\Gemwave\bin\Debug\Gemwave.exe.config
+C:\Users\thijs\OneDrive\Documenten\GitHub\Csharp-game\Gemwave\Gemwave\bin\Debug\Gemwave.exe
+C:\Users\thijs\OneDrive\Documenten\GitHub\Csharp-game\Gemwave\Gemwave\bin\Debug\Gemwave.pdb
+C:\Users\thijs\OneDrive\Documenten\GitHub\Csharp-game\Gemwave\Gemwave\obj\Debug\Gemwave.csproj.AssemblyReference.cache
+C:\Users\thijs\OneDrive\Documenten\GitHub\Csharp-game\Gemwave\Gemwave\obj\Debug\Gemwave.csproj.SuggestedBindingRedirects.cache
+C:\Users\thijs\OneDrive\Documenten\GitHub\Csharp-game\Gemwave\Gemwave\obj\Debug\Gemwave.Form1.resources
+C:\Users\thijs\OneDrive\Documenten\GitHub\Csharp-game\Gemwave\Gemwave\obj\Debug\Gemwave.Properties.Resources.resources
+C:\Users\thijs\OneDrive\Documenten\GitHub\Csharp-game\Gemwave\Gemwave\obj\Debug\Gemwave.csproj.GenerateResource.cache
+C:\Users\thijs\OneDrive\Documenten\GitHub\Csharp-game\Gemwave\Gemwave\obj\Debug\Gemwave.csproj.CoreCompileInputs.cache
+C:\Users\thijs\OneDrive\Documenten\GitHub\Csharp-game\Gemwave\Gemwave\obj\Debug\Gemwave.exe
+C:\Users\thijs\OneDrive\Documenten\GitHub\Csharp-game\Gemwave\Gemwave\obj\Debug\Gemwave.pdb
