@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{581BA88C-4950-4C9F-BD4F-D1B35E46EF5D}</ProjectGuid>
+    <ProjectGuid>{E1575FEF-386B-4693-9E1C-010B340BFABD}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>WindowsFormsApp1</RootNamespace>
-    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <RootNamespace>Gemwave</RootNamespace>
+    <AssemblyName>Gemwave</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -81,10 +81,37 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="synthwave-background-dark-retro-futuristic-backdrop-blue-wireframe-landscape-sky-full-stars-horizon-glow-abstract-199612428.png" />
+  </ItemGroup>
+  <ItemGroup>
     <None Include="finley.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="synthwave-background-dark-retro-futuristic-backdrop-blue-wireframe-landscape-sky-full-stars-horizon-glow-abstract-199612428.png" />
+    <None Include="20441473.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="8g1vveyci7ahqyp5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Screenshot_2023-01-25_at_11.25.16_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="marco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="marco2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="marco3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="marco4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="marco5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Marco6.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
