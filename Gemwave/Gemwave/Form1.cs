@@ -36,5 +36,47 @@ namespace Gemwave
         {
 
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_DragDrop(object sender, DragEventArgs e)
+        {
+
+        }
+
+        private void pictureBox7_DragDrop(object sender, DragEventArgs e)
+        {
+
+        }
+
+        private void pictureBox2_DragDrop(object sender, DragEventArgs e)
+        {
+
+        }
+
+        private void pictureBox3_DragDrop(object sender, DragEventArgs e)
+        {
+
+        }
+
+        private void pictureBox4_DragDrop(object sender, DragEventArgs e)
+        {
+
+        }
+
+        private void pictureBox6_DragDrop(object sender, DragEventArgs e)
+        {
+
+        }
+
+        private void Form1_DragDrop(object sender, DragEventArgs e)
+        {
+
+        }
     }
 }
+
+        private Timer gameTimer;

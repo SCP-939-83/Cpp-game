@@ -9,3 +9,4 @@ C:\Users\thijs\OneDrive\Documenten\GitHub\Csharp-game\Gemwave\Gemwave\obj\Debug\
 C:\Users\thijs\OneDrive\Documenten\GitHub\Csharp-game\Gemwave\Gemwave\obj\Debug\Gemwave.csproj.CoreCompileInputs.cache
 C:\Users\thijs\OneDrive\Documenten\GitHub\Csharp-game\Gemwave\Gemwave\obj\Debug\Gemwave.exe
 C:\Users\thijs\OneDrive\Documenten\GitHub\Csharp-game\Gemwave\Gemwave\obj\Debug\Gemwave.pdb
+C:\Users\thijs\OneDrive\Documenten\GitHub\Csharp-game\Gemwave\Gemwave\obj\Debug\Match3.resources
